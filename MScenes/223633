@@ -1,0 +1,437 @@
+[
+    {
+        "Order": 1,
+        "IsBattle": false,
+        "MQuestId": null,
+        "RentalPartyId": null,
+        "MSceneId": 223633,
+        "Title": "オーディンは目移りする",
+        "UseRichScene": true,
+        "MSceneDetails": [],
+        "MRichSceneDetails": [
+            {
+                "Order": 1,
+                "Name": "オーディン",
+                "Serif": "うわぁ、立派な観葉植物ですね……。\\nアースガルズでは見ない品種です",
+                "BackgroundImage": "bg_adventure_0334",
+                "Bgm": "bgm_adv_04",
+                "Voice": "c_2363_3_001_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 1,
+                        "FadeIn": true
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 2,
+                "Name": "店主",
+                "Serif": "おっ、この木が気になるかい？これは南のほうの常夏の島に自生する植物なんだ。\\n大事に育てりゃ、大きな花も咲かせるんだぜ？",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "Facial": 1
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "IsTalking": true,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 3,
+                "Name": "オーディン",
+                "Serif": "やっぱり、寒いアースガルズと違ってオトギノクニには色んな植物があるんですね……",
+                "Voice": "c_2363_3_002_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 7,
+                        "Action": 2
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 4,
+                "Name": "店主",
+                "Serif": "アースガルズ？聞かない地名だな？\\nけど……お嬢ちゃん、ひとりで持って帰れるかな……",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "Facial": 7
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "IsTalking": true,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 5,
+                "Name": "オーディン",
+                "Serif": "大きいけれど……いまのわたしの力なら、両手で抱えればなんとかなりそうです……",
+                "Voice": "c_2363_3_003_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 1
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 6,
+                "Name": "オーディン",
+                "Serif": "よし、買いましょう……！す、すいません――",
+                "Voice": "c_2363_3_004_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 6,
+                        "Action": 2
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 7,
+                "Name": "オーディン",
+                "Serif": "はっ……こ、これは……！？",
+                "Voice": "c_2363_3_005_2149",
+                "FlashEffectName": "adv_flash_1",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 3,
+                        "Action": 3
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 8,
+                "Name": "店主",
+                "Serif": "ん？お嬢ちゃん、どうかしたかい？",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "Facial": 3
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "IsTalking": true,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 9,
+                "Name": "オーディン",
+                "Serif": "タイムセールのお肉の特売……それに、この先の古本屋で魔法の古書全１０巻が……",
+                "Voice": "c_2363_3_006_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 7
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 10,
+                "Name": "オーディン",
+                "Serif": "ど、どれも欲しい……でも、観葉植物を持っていては……。\\nわたしは……どの未来を選べばいいのでしょうか……？",
+                "Voice": "c_2363_3_007_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 2
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 11,
+                "Name": "オーディン",
+                "Serif": "うぁ……！？ま、また……？でも……これなら……",
+                "Voice": "c_2363_3_008_2149",
+                "FlashEffectName": "adv_flash_1",
+                "SceneChangeEffectType": 3,
+                "Characters": [
+                    {
+                        "Position": 2,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 3,
+                        "Action": 4
+                    },
+                    {
+                        "Position": 4,
+                        "MMonsterId": 96671,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 12,
+                "Name": "オーディン",
+                "Serif": "いた……！%user_nameさん……！",
+                "BackgroundImage": "bg_adventure_0365",
+                "Voice": "c_2363_3_009_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 3,
+                        "SlideIn": 1,
+                        "SlideTime": 500
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 13,
+                "Name": "%user_name",
+                "Serif": "ひぇああ！？って、オーディンか……なんだいきなり血相を変えて……",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "Facial": 3
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 14,
+                "Name": "オーディン",
+                "Serif": "お願いします！わたしに……力を貸してください！",
+                "BgmFadeOutTime": 500,
+                "Voice": "c_2363_3_010_2149",
+                "SceneChangeEffectType": 3,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 3
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 15,
+                "Name": "オーディン",
+                "Serif": "ふふふ、観葉植物にお肉に古書まで手に入るなんて……。今日はツイてますね♪",
+                "BackgroundImage": "bg_adventure_0335",
+                "Bgm": "bgm_adv_49",
+                "Voice": "c_2363_3_011_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 6,
+                        "Action": 2
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 16,
+                "Name": "オーディン",
+                "Serif": "%user_nameさん、手伝ってくれてありがとうございます。\\nあとで、美味しいお料理を作りますね",
+                "Voice": "c_2363_3_012_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 17,
+                "Name": "%user_name",
+                "Serif": "これくらいお安い御用だ。オーディンの役に立てて俺も嬉しいよ",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "Facial": 1
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 18,
+                "Name": "オーディン",
+                "Serif": "やっぱり、%user_nameさんの言う通りですね。ときには誰かを頼るのも――",
+                "Voice": "c_2363_3_013_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 7,
+                        "Action": 2
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 19,
+                "Name": "オーディン",
+                "Serif": "あれ？いま、空から水滴が……いや、これは雨！？",
+                "BgmFadeOutTime": 500,
+                "Voice": "c_2363_3_014_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 3
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 20,
+                "Name": "%user_name",
+                "Serif": "どわぁ！？一気に強くなったぞ！早く宿に急ごう！！",
+                "Bgm": "bgm_adv_01",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "Facial": 3
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            },
+            {
+                "Order": 21,
+                "Name": "オーディン",
+                "Serif": "そうか……いっぱい寄り道したから……。\\nひぃ～～～、この未来は視えていませんでしたぁ～～～！！",
+                "Voice": "c_2363_3_015_2149",
+                "SceneChangeEffectType": 0,
+                "Characters": [
+                    {
+                        "Position": 3,
+                        "MMonsterId": 23631,
+                        "IsTalking": true,
+                        "Facial": 5,
+                        "Action": 3
+                    }
+                ],
+                "Choices": [],
+                "EndingInformation": null
+            }
+        ]
+    }
+]
